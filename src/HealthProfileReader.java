@@ -85,7 +85,7 @@ public class HealthProfileReader {
 			// If node is person, print line that shows person's id
 			if (node.getNodeName() == "person") {
                 System.out.println("");
-				System.out.println("Person with ID " + node.getAttributes().getNamedItem("id").getNodeValue() + ": ");
+				System.out.print("Person with ID " + node.getAttributes().getNamedItem("id").getNodeValue() + ": ");
 			} else {
 			// Else print the node name	
 				System.out.print(node.getNodeName() + ": ");
