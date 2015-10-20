@@ -12,7 +12,7 @@ The ivy.xml and build.xml files are for installing all the dependencies and runn
 ### How to run the program?
 The program uses ant build-tool to run the program. To execute the program, please run in the terminal:
 
-  ant execute.evaluation
+	ant execute.evaluation
   
 
 
