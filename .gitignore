@@ -3,3 +3,6 @@
 /build/
 .project
 .classpath
+people1.json
+people1.xml
+/src/transforms/generated
